@@ -1,0 +1,5 @@
+#
+#Thu Jun 02 09:27:51 CEST 2016
+com.intel.core.project.type.id="com.intel.iotdevkit.cdt.iotCDTNature"
+com.intel.core.target.selection="franMF"
+com.intel.core.project.description="IoT"
